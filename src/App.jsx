@@ -12,7 +12,7 @@ import StoreLocator from './pages/StoreLocator'
 import Franchies from './pages/Franchies'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import IcecreamDetail from './components/IcecreamDetailPage'
-import Login from './components/login'
+import Login from './components/Login'
 
 function App() {
 
