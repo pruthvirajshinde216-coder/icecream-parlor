@@ -17,7 +17,7 @@ const StoreLocator = () => {
         FC Road, Pune <br />
         Maharashtra - 411001
       </address>
-      <p>Email: pune@sujalicecream.com</p>
+      <p>Email: pune@pruthvicecream.com</p>
       <p>Phone: 9876543210</p>
     </div>
 
@@ -27,7 +27,7 @@ const StoreLocator = () => {
         Andheri West, Mumbai <br />
         Maharashtra - 400053
       </address>
-      <p>Email: mumbai@sujalicecream.com</p>
+      <p>Email: mumbai@pruthviicecream.com</p>
       <p>Phone: 9876543211</p>
     </div>
 
@@ -37,7 +37,7 @@ const StoreLocator = () => {
         College Road, Nashik <br />
         Maharashtra - 422005
       </address>
-      <p>Email: nashik@sujalicecream.com</p>
+      <p>Email: nashik@pruthviicecream.com</p>
       <p>Phone: 9876543212</p>
     </div>
 
@@ -47,7 +47,7 @@ const StoreLocator = () => {
         Sitabuldi, Nagpur <br />
         Maharashtra - 440012
       </address>
-      <p>Email: nagpur@sujalicecream.com</p>
+      <p>Email: nagpur@pruthviicecream.com</p>
       <p>Phone: 9876543213</p>
     </div>
 
@@ -57,7 +57,7 @@ const StoreLocator = () => {
         CIDCO, Aurangabad <br />
         Maharashtra - 431001
       </address>
-      <p>Email: aurangabad@sujalicecream.com</p>
+      <p>Email: aurangabad@pruthviicecream.com</p>
       <p>Phone: 9876543214</p>
     </div>
 
@@ -67,7 +67,7 @@ const StoreLocator = () => {
         Rajarampuri, Kolhapur <br />
         Maharashtra - 416001
       </address>
-      <p>Email: kolhapur@sujalicecream.com</p>
+      <p>Email: kolhapur@pruthviicecream.com</p>
       <p>Phone: 9876543215</p>
     </div>
 

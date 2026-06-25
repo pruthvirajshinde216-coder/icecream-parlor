@@ -58,9 +58,9 @@ function IcecreamDetail({products}) {
                 </button>
               </div>
 
-              <div className="mt-4 text-warning fs-4">
+              <div className="mt-4 fs-4" style={{ color: "purple" }}>
                 ★★★★★
-              </div>
+              </div>  
 
               <p className="text-muted mt-2">
                 Fresh, creamy and perfect for dessert lovers.

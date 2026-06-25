@@ -6,7 +6,7 @@ const Franchies = () => {
       <h1>Franchise Opportunity</h1>
 
       <p>
-        Join the Sujal Ice Cream family and start your own successful business.
+        Join the pruthvi's Ice Cream family and start your own successful business.
       </p>
 
       <ul>
@@ -18,7 +18,7 @@ const Franchies = () => {
       </ul>
 
       <h4>Contact Us</h4>
-      <p>Email: franchise@sujalicecream.com</p>
+      <p>Email: franchise@pruthviicecream.com</p>
       <p>Phone: +91 9876543210</p>
     </div>
   );
